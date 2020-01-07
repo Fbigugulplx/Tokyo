@@ -2297,26 +2297,25 @@ body {
     padding-bottom: 2rem;
   }
 }
-.cid-rMTGkbGMzf {
-  background: #ffffff;
+.cid-rMTJdS1XXo {
+  background: #0f7699;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: linear-gradient(0deg, #cc2952, #0f7699);
 }
-.cid-rMTGkbGMzf .image-block {
+.cid-rMTJdS1XXo .image-block {
   margin: auto;
-  width: 100% !important;
 }
-.cid-rMTGkbGMzf .mbr-figure {
-  margin: 0 auto;
-}
-.cid-rMTGkbGMzf figcaption {
+.cid-rMTJdS1XXo figcaption {
   position: relative;
 }
-.cid-rMTGkbGMzf figcaption div {
+.cid-rMTJdS1XXo figcaption div {
   position: absolute;
   bottom: 0;
   width: 100%;
 }
 @media (max-width: 768px) {
-  .cid-rMTGkbGMzf .image-block {
+  .cid-rMTJdS1XXo .image-block {
     width: 100% !important;
   }
 }
